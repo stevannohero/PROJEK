@@ -1,0 +1,33 @@
+{
+  "name": "chatservice",
+  "version": "1.0.0",
+  "description": "Chat Service for Pr-Ojek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.informatika.org/IF3110-2017-K01-PertamaxTurbo/TugasBesar3_2017"
+  },
+  "keywords": [
+    "\"MEAN",
+    "stack\"",
+    "\"Firebase",
+    "Cloud",
+    "Messaging\""
+  ],
+  "author": "PertamaxTurbo (Jordhy Fernando, Slyvia Juliana, Stevanno Hero)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}

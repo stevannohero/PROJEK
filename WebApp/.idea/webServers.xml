@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6803a36d-135e-48fe-bcf9-f3b9937ba976" name="docker" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\Jordhy\Desktop\Tugas\TugasBesar2_2017\WebApp\out\docker" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
